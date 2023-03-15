@@ -6,3 +6,13 @@ let x = 22;
 }
 
 console.log(x);
+
+// ------------- //
+
+var y = 10;
+
+{
+    var y = 2;
+}
+
+console.log(y);
